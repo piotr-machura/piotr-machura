@@ -1,4 +1,4 @@
-My personal projects have moved to [sourcehut](https://sr.ht/~piotr-machura/).
+### My personal projects have moved to [sourcehut](https://sr.ht/~piotr-machura/).
 
 ```
          .n.                     |
